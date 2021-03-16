@@ -2,7 +2,7 @@
   "name": "braccot",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://getsetbro.github.io/mascotbracket2021/build/",
+  "homepage": "/mascotbracket2021/build/",
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
